@@ -13,4 +13,3 @@ $(arr).each(function (x) {
 	$('#target select').append($('<option></option>')
 		.text(arr[x]));
 });
-	
